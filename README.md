@@ -1,5 +1,6 @@
 # Among Us GIF Maker
-Create Among Us meme GIFs
+Create Among Us meme GIFs<br /><br />
+<img src="https://github.com/ujjujjuj/amongus-gif/raw/master/res/example.gif?raw=true" alt="example" width="270"/><br />
 
 ## Usage
 1) Install dependencies by running

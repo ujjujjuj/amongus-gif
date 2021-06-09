@@ -4,8 +4,8 @@ import imageio
 import sys
 
 N_COLORS = 8
-N_TILES = 40
-TILE_WIDTH = 32 
+N_TILES = 42
+TILE_WIDTH = 20 
 DELAY = 0.08
 
 frames = []
